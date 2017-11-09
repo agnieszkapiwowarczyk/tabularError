@@ -2,7 +2,6 @@
 ####
 #Piwowarczyk.py
 #Calculation the most important indexes of choropleth map
-#Agnieszka Piwowarczyk, 22.04.2017 r.
 #ver.1.1
 ####
 
